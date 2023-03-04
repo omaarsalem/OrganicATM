@@ -1,0 +1,6 @@
+﻿  The Organic Atm.cpp
+F:\UNI of HUDD\Software design\Final Project\The Organic Atm\The Organic Atm.cpp(72,33): warning C4584: 'ATM_Transactions': base-class 'StarzBank' is already a base-class of 'Customer'
+F:\UNI of HUDD\Software design\Final Project\The Organic Atm\The Organic Atm.cpp(7): message : see declaration of 'StarzBank'
+F:\UNI of HUDD\Software design\Final Project\The Organic Atm\The Organic Atm.cpp(13): message : see declaration of 'Customer'
+F:\UNI of HUDD\Software design\Final Project\The Organic Atm\The Organic Atm.cpp(177,4): warning C4551: function call missing argument list
+  The Organic Atm.vcxproj -> F:\UNI of HUDD\Software design\Final Project\The Organic Atm\Debug\The Organic Atm.exe

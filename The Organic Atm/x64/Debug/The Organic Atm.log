@@ -1,0 +1,5 @@
+﻿  The Organic Atm.cpp
+F:\UNI of HUDD\Software design\Final Project\The Organic Atm\The Organic Atm.cpp(67,33): warning C4584: 'ATM_Transactions': base-class 'StarzBank' is already a base-class of 'Customer'
+F:\UNI of HUDD\Software design\Final Project\The Organic Atm\The Organic Atm.cpp(7): message : see declaration of 'StarzBank'
+F:\UNI of HUDD\Software design\Final Project\The Organic Atm\The Organic Atm.cpp(13): message : see declaration of 'Customer'
+  The Organic Atm.vcxproj -> F:\UNI of HUDD\Software design\Final Project\The Organic Atm\x64\Debug\The Organic Atm.exe

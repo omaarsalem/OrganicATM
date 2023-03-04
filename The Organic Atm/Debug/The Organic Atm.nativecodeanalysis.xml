@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>F:\UNI of HUDD\Software design\Final Project\The Organic Atm\</FILEPATH>
+      <FILENAME>The Organic Atm.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'StarzBank::Bankid' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>StarzBank::{ctor}</FUNCTION>
+    <DECORATED>??0StarzBank@@QAE@XZ</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>StarzBank::Bankid</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>F:\UNI of HUDD\Software design\Final Project\The Organic Atm\</FILEPATH>
+      <FILENAME>The Organic Atm.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Customer::Customerid' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Customer::{ctor}</FUNCTION>
+    <DECORATED>??0Customer@@QAE@XZ</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Customer::Customerid</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>F:\UNI of HUDD\Software design\Final Project\The Organic Atm\</FILEPATH>
+      <FILENAME>The Organic Atm.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Customer::CustomerPhoneNumber' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Customer::{ctor}</FUNCTION>
+    <DECORATED>??0Customer@@QAE@XZ</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Customer::CustomerPhoneNumber</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>F:\UNI of HUDD\Software design\Final Project\The Organic Atm\</FILEPATH>
+      <FILENAME>The Organic Atm.cpp</FILENAME>
+      <LINE>28</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'TheGlobalBank::Bankid' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>TheGlobalBank::{ctor}</FUNCTION>
+    <DECORATED>??0TheGlobalBank@@QAE@XZ</DECORATED>
+    <FUNCLINE>28</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>TheGlobalBank::Bankid</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
